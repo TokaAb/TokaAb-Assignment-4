@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\csharpassiginment4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\csharpassiginment4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\linkedin\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\linkedin\\readme.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\benchmark.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\benchmark.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\leetcode\\leetcode.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\leetcode\\leetcode.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\leetcode\\gcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\leetcode\\gcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|c:\\users\\com\\source\\repos\\csharpassiginment4\\csharpassiginment4\\leetcode\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232F390A-6D13-A4E9-4EC4-CAD1356D01ED}|CSharpAssiginment4\\CSharpAssiginment4.csproj|solutionrelative:csharpassiginment4\\leetcode\\validanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSharpAssiginment4",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\CSharpAssiginment4.csproj",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\CSharpAssiginment4.csproj",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\CSharpAssiginment4.csproj",
+              "RelativeToolTip": "CSharpAssiginment4\\CSharpAssiginment4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-17T01:05:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md.txt",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\LinkedIn\\README.md.txt",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\LinkedIn\\README.md.txt",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\LinkedIn\\README.md.txt",
+              "RelativeToolTip": "CSharpAssiginment4\\LinkedIn\\README.md.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-17T00:53:22.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GCD.cs",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\GCD.cs",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\leetcode\\GCD.cs",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\GCD.cs",
+              "RelativeToolTip": "CSharpAssiginment4\\leetcode\\GCD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T22:29:42.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidAnagram.cs",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\ValidAnagram.cs",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\leetcode\\ValidAnagram.cs",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\ValidAnagram.cs",
+              "RelativeToolTip": "CSharpAssiginment4\\leetcode\\ValidAnagram.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T05:06:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "leetcode.txt",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\leetcode.txt",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\leetcode\\leetcode.txt",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\leetcode\\leetcode.txt",
+              "RelativeToolTip": "CSharpAssiginment4\\leetcode\\leetcode.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-16T05:02:55.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BENCHMARK.md",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\BENCHMARK.md",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\BENCHMARK.md",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\BENCHMARK.md",
+              "RelativeToolTip": "CSharpAssiginment4\\BENCHMARK.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-16T02:17:59.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpAssiginment4\\Program.cs",
+              "ToolTip": "C:\\Users\\com\\source\\repos\\CSharpAssiginment4\\CSharpAssiginment4\\Program.cs",
+              "RelativeToolTip": "CSharpAssiginment4\\Program.cs",
+              "ViewState": "AgIAAOsCAAAAAAAAAAAiwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T01:51:45.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
